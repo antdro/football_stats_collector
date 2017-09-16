@@ -13,10 +13,10 @@ finder.py
 	- data is stored in history.h5
 
 
-report_builder.ipynb
-	- reports current mean of selected markets in comparison to its expected mean
+visualiser.ipynb
+	- reports current means of selected markets in comparison to its expected mean
 	- information provided by a report might serve as a signal for trading
-
+	
 
 chromedriver
 	- standalone server used by selenium in finder.py
